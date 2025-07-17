@@ -23,8 +23,9 @@ Solo tienes que completar los campos y hacer clic en "Enviar".
 
 ## 🚀 Cómo ver el sitio
 
-Puedes ver el portafolio en vivo accediendo al siguiente enlace:
--🔗 [https://david-palma.es/](https://david-palma.es/)
+Puedes ver el portafolio en vivo accediendo al siguiente enlace.
+
+🔗 [https://david-palma.es/](https://david-palma.es/)
 
 
 
