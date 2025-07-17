@@ -1,4 +1,4 @@
-# 🌐 Portafolio Profesional - [Tu Nombre]
+# 🌐 Portafolio Profesional - [David Palma]
 
 Este es mi portafolio web profesional, desarrollado con HTML, CSS y JavaScript. Aquí presento mis proyectos, habilidades y formas de contacto. Además, cuenta con un formulario funcional que permite a los visitantes enviarme mensajes directamente a través de [Formspree](https://formspree.io).
 
