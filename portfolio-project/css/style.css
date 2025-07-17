@@ -1,0 +1,44 @@
+/* --- Efecto Aurora de Fondo --- */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+    background: #0c0c1d; /* Fondo base oscuro */
+}
+
+body::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    pointer-events: none;
+    background-image: radial-gradient(circle at var(--x) var(--y), #0d3a57 0%, transparent 25%);
+    transition: background-image 0.2s ease-out;
+}
+
+/* --- Animaciones de Scroll --- */
+.reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.8s ease-out, transform 0.6s ease-out;
+}
+.reveal.active {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* --- Efecto Glow en Tarjetas --- */
+.project-card:hover {
+    box-shadow: 0 0 25px rgba(0, 255, 255, 0.3);
+}
+
+.face-focus {
+    object-position: 50% 25%; /* Ajusta este valor para centrar la cara */
+}
