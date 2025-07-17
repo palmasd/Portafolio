@@ -25,7 +25,6 @@ Solo tienes que completar los campos y hacer clic en "Enviar".
 
 Puedes ver el portafolio en vivo accediendo al siguiente enlace (reemplaza con el tuyo):
 
-🔗 [https://tuusuario.github.io/portafolio](https://tuusuario.github.io/portafolio)
+🔗 [https://tuusuario.github.io/portafolio](https://github.com/palmasd/Portafolio)
 
-## 📁 Estructura del proyecto
 
